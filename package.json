@@ -9,6 +9,10 @@
     "component",
     "framer-motion"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antonis-zisis/react-tw-timeline"
+  },
   "license": "MIT",
   "author": "Antonis Zisis",
   "type": "module",
