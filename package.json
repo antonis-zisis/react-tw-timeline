@@ -1,6 +1,6 @@
 {
   "name": "react-tw-timeline",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A vertical center-line timeline component for React + Tailwind CSS with scroll-triggered animations and dark mode support",
   "keywords": [
     "react",
