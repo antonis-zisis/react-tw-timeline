@@ -1,0 +1,8 @@
+.storybook/
+stories/
+storybook-static/
+node_modules/
+*.tsbuildinfo
+.DS_Store
+tsup.config.ts
+tsconfig.json
